@@ -1,0 +1,42 @@
+[
+  {
+    "package": "metapredict",
+    "url": "https://github.com/hugheylab/metapredict"
+  },
+  {
+    "package": "zeitzeiger",
+    "url": "https://github.com/hugheylab/zeitzeiger"
+  },
+  {
+    "package": "deltaccd",
+    "url": "https://github.com/hugheylab/deltaccd"
+  },
+  {
+    "package": "tipa",
+    "url": "https://github.com/hugheylab/tipa"
+  },
+  {
+    "package": "limorhyde",
+    "url": "https://github.com/hugheylab/limorhyde"
+  },
+  {
+    "package": "simphony",
+    "url": "https://github.com/hugheylab/simphony"
+  },
+  {
+    "package": "spectr",
+    "url": "https://github.com/hugheylab/spectr"
+  },
+  {
+    "package": "pmparser",
+    "url": "https://github.com/hugheylab/pmparser"
+  },
+  {
+    "package": "limorhyde2",
+    "url": "https://github.com/hugheylab/limorhyde2"
+  },
+  {
+    "package": "seeker",
+    "url": "https://github.com/hugheylab/seeker"
+  }
+]
