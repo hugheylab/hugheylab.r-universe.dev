@@ -1,9 +1,5 @@
 [
   {
-    "package": "metapredict",
-    "url": "https://github.com/hugheylab/metapredict"
-  },
-  {
     "package": "zeitzeiger",
     "url": "https://github.com/hugheylab/zeitzeiger"
   },
