@@ -11,7 +11,8 @@ d = data.table(package = c(
   'spectr',
   'pmparser',
   'limorhyde2',
-  'seeker'))
+  'seeker',
+  'phers'))
 
 d[, url := paste0('https://github.com/hugheylab/', package)]
 
