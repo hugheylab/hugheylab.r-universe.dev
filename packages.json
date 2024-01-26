@@ -35,4 +35,8 @@
     "package": "seeker",
     "url": "https://github.com/hugheylab/seeker"
   }
+  {
+    "package": "phers",
+    "url": "https://github.com/hugheylab/phers"
+  }
 ]
